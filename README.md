@@ -134,7 +134,7 @@ NDM_ORIGINAL_APP="/path/to/original/NeatDownloadManager.app" python3 tests/run.p
 
 ## 相关说明
 
-实现细节见 [TECHNICAL.md](docs/TECHNICAL.md)，验证记录见 [VERIFICATION.md](docs/VERIFICATION.md)，发布前请阅读 [PUBLISHING.md](docs/PUBLISHING.md)。
+实现细节见 [TECHNICAL.md](docs/TECHNICAL.md)，验证记录见 [VERIFICATION.md](docs/VERIFICATION.md)。
 
 ## 许可证
 
