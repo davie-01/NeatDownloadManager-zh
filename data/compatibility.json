@@ -1,0 +1,25 @@
+{
+  "version": "1.3",
+  "build": "24",
+  "original_executable_sha256": "82ac9da838a633a187029aef14cef45f5bd8a9b8914ad2d0ccea5205c47641a9",
+  "nibs": {
+    "Contents/Resources/Base.lproj/NeatMainWindow.nib/keyedobjects-110000.nib": "20d5e45db579e2140096c5ea47ec3889aec09704996bc7d2e8055ccb7bd4b72f",
+    "Contents/Resources/Base.lproj/NeatMainWindow.nib/keyedobjects.nib": "a508fa4a9e820df040f1015aed90a2038ab6161b4f88695d1b615b9eda096e25",
+    "Contents/Resources/NeatAboutWindow.nib": "a7e9f06ef9280eba11cd0fc01a36f47034cb1d58e884944c0c25d99906607d53",
+    "Contents/Resources/NeatAuthWindow.nib": "5a1045633443876f984f705377c21079bd741e388f5eb2029cb12d13a7d149e7",
+    "Contents/Resources/NeatBrowsersWindow.nib": "8ed76196471abded5790fc9472e30179dc7cf01e44b47935bd543e0977bb8c60",
+    "Contents/Resources/NeatCompleteWindow.nib": "10c385cf58cf17f01ee7f9a88c900f9de7fdb49258b319c6212bd3c481af67ad",
+    "Contents/Resources/NeatCustomButton.nib": "33c14dfe968e3f4b058c908e548c8507854971b2f5755c675d8a44120ad0fd82",
+    "Contents/Resources/NeatDownloadWindow.nib/keyedobjects-110000.nib": "80a388730aa970869e6b9d6361dfb3fdf04f89544dd2790901fa3986104a1a1a",
+    "Contents/Resources/NeatDownloadWindow.nib/keyedobjects.nib": "db0d7d11a7adc7cd6d653aef07a2153e1bf6e66db2c4a54fd58df7be3f92eaf1",
+    "Contents/Resources/NeatDownloadWindowMKV.nib/keyedobjects-110000.nib": "cdbc2846aa89be5a171ee74c1ce3654813337e77de182ed9c25b532f7757e207",
+    "Contents/Resources/NeatDownloadWindowMKV.nib/keyedobjects.nib": "b82bbd0f72dd3920b9abec5f4b2fe89616592bb76726ff1243c4c9438224f7ea",
+    "Contents/Resources/NeatErrorWindow.nib": "1e869084a33a00bacff8a4e6271cdd78d5eb98e3a70749851d9a57a8f35cd4ea",
+    "Contents/Resources/NeatPropertiesWindow.nib": "6dcf7cef70fc3892cce27108f807f0fe260c927d80ae40e194f4c0687e000797",
+    "Contents/Resources/NeatQuitWindow.nib": "efa89ebde811486e8d668dbe9fbc1234d63db0aaebece8fdc3aa0d9fe0832930",
+    "Contents/Resources/NeatSettingWindow.nib/keyedobjects-110000.nib": "9f6090a019de2dbaef3acf412a096a3c7982fa4813dd74a47be62efb582aba92",
+    "Contents/Resources/NeatSettingWindow.nib/keyedobjects.nib": "b29c699b40dfa226a0427c319c2108a2d219656e5b5a879fc2b18c5ba1ed506a",
+    "Contents/Resources/NeatUrlWindow.nib": "0a3ca461b16c830d683c11bda3fb15de92925c1e1990c50889ea6a9a621ec788",
+    "Contents/Resources/NeatWaitWindow.nib": "8713464cbe8d39f2419552df704bb03a584c5e472ba776cf31f868eaca5487d2"
+  }
+}

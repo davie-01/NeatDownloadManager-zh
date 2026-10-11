@@ -1,0 +1,20 @@
+# Locally generated applications, native artifacts, backups and user paths
+/build/
+/backup/
+/backups/
+/dist/
+/work/
+*.app/
+*.dylib
+*.o
+*.bin
+*.zip
+__pycache__/
+*.py[cod]
+.DS_Store
+/core
+/core.*
+
+# User-supplied original app; keep only placement instructions
+/original/*
+!/original/README.txt
