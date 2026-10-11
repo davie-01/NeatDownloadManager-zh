@@ -18,3 +18,5 @@ __pycache__/
 # User-supplied original app; keep only placement instructions
 /original/*
 !/original/README.txt
+
+/docs/PUBLISHING.md
